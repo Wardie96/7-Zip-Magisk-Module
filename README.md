@@ -19,6 +19,10 @@ This Magisk module injects the standalone static `7zz` binary into `/system/bin`
 ## Usage
 Open a terminal emulator (like Termux) and run:
 ```bash
+su
+```
+
+```bash
 7zz --help
 ```
 
