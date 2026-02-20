@@ -27,11 +27,13 @@ Open a terminal emulator (like Termux) and run:
 - Tested on OnePlus 8T - OOS 11 (APatch)
 
 ## Credits
-- [7-Zip](https://www.7-zip.org/) by Igor Pavlov.
+- [7-Zip 26.00](https://www.7-zip.org/) by Igor Pavlov.
 - Magisk by topjohnwu.
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Third Party Licenses
-This project uses the 7zz 7-Zip Binary by Igor Pavlov that is being licenced under the GNU General Public license v2.1 for redistribution.
+The `7zz` binary included in this module is part of the 7-Zip project by Igor Pavlov and is licensed under the **GNU Lesser General Public License (LGPL) v2.1 or later**. 
+
+You can find the source code for 7-Zip at [7-zip.org](https://www.7-zip.org/download.html). A copy of the LGPL v2.1 is included in the [THIRD_PARTY_LICENSES/LGPL-2.1.txt](THIRD_PARTY_LICENSES/LGPL-2.1.txt) file.
