@@ -1,0 +1,14 @@
+# Magisk module build artifacts
+*.zip
+include.txt
+
+# Release folders
+release_bin/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
